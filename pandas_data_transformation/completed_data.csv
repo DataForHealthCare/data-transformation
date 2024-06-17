@@ -1,0 +1,129 @@
+feedback_id,date_created_dt,question_txt,question_type_txt,answer_txt,date_feedback_received_dt,key_driver_txt,workplace_location_id,survey_role,answer_score_txt,answer_score_int
+19548291,2024-02-19,How satisfied are you that the provided technology solutions meets the business needs?,rated 0-10,9,2024-02-19,Technology ,,,9,4.5
+19548291,2024-02-19,Move Support,rated 0-10,9,2024-02-19,Move support ,,,9,4.5
+19548291,2024-02-19,How satisfied are you that your management team had the support they needed to guide employees through this change?,rated 0-10,9,2024-02-19,Change Mgmt/Comms,,,9,4.5
+19548291,2024-02-19,Change Management/Communications,rated 0-10,8,2024-02-19,Change Mgmt/Comms,,,8,4.0
+19548291,2024-02-19,Project Delivery,rated 0-10,9,2024-02-19,Delivery ,,,9,4.5
+19548291,2024-02-19,How satisfied are you that the project team met the communicated schedule and delivery expectations?,rated 0-10,9,2024-02-19,Delivery ,,,9,4.5
+19548291,2024-02-19,Would you have benefitted from more guidance on how to lead this change?,yes no,No,2024-02-19,Change Mgmt/Comms,,,,
+19548291,2024-02-19,Do you have specific comments you would like to share about the schedule and expectations?,text,Project was delivered on time and was pretty seamless.  Overall a good experience in my opinion.  It's a lot to execute and a lot of planning and it came together well overall of the restacking / moves.,2024-02-19,,,,,
+19548291,2024-02-19,Do you have any additional comments you would like to share about the delivery of your new workplace?,text,,2024-02-19,,,,,
+19548291,2024-02-19,Project Leadership,rated 0-10,9,2024-02-19,,,,9,4.5
+19548291,2024-02-19,Please select which workplace location you work at:,single-select,MN101 Twin Cities Consolidation Phase 1,2024-02-19,,MN101,,,
+19548291,2024-02-19,Please select the role that best describes your involvement in the delivery of your new workplace:,single-select,Site Leader / Executive Leader,2024-02-19,,,Site Leader / Executive Leader,,
+19548291,2024-02-19,Please share your ideas on how we could improve the guidance we provide.,text,Try to avoid changes to communications after sending out.  Mistakes happen and multiple communications with dates changing can cause confusion at times.,2024-02-19,,,,,
+19548291,2024-02-19,Do you have specific comments you would like to share about the technology in your new workplace?,text,The printers are not as stable as they used to be.  Ink is not restocked at times and printers have been inoperable at times.,2024-02-19,,,,,
+19548291,2024-02-19,Care to tell us why? Your feedback helps us improve our workplace delivery.,text,"Seamless process and easy to follow instructions.  Very easy.  Rated '9' and not '10' because a few of the communications had to be re-sent and resulted in changed understanding of timelines / process, etc.  Once everything was finalized, it was very smooth process.",2024-02-19,,,,,
+18589942,2023-09-26,"How satisfied are you with the technology solutions, are they intuitive and easy to use?",rated 0-10,8,2023-09-26,Technology ,,,8,4.0
+18589942,2023-09-26,How satisfied are you with the overall delivery of your new workplace?,rated 0-10,9,2023-09-26,Delivery ,,,9,4.5
+18589942,2023-09-26,How satisfied are you with the move support?,rated 0-10,9,2023-09-26,Move Support ,,,9,4.5
+18589942,2023-09-26,Do you have specific comments you would like to share about your new workplace?,text,,2023-09-26,,,,,
+18589942,2023-09-26,Do you have any additional comments you would like to share about the delivery of your new workplace?,text,,2023-09-26,,,,,
+18589942,2023-09-26,Do you have specific comments you would like to share about the move support?,text,,2023-09-26,,,,,
+18589942,2023-09-26,"How satisfied are you with your new workplace? (collaboration space, private space, exam room, provider space etc.)",rated 0-10,7,2023-09-26,,,,7,3.5
+18589942,2023-09-26,Please select which workplace location you work at:,single-select,TX547,2023-09-26,,TX547,,,
+18589942,2023-09-26,Do you have specific comments you would like to share about these events?,text,,2023-09-26,,,,,
+18589942,2023-09-26,How satisfied are you that the communications outlining when and how you would be impacted by the new workplace delivery provided all the information needed?,rated 0-10,10,2023-09-26,,,,10,5.0
+18589942,2023-09-26,How satisfied are you that the guidance you received prepared you to help manage this move?,rated 0-10,10,2023-09-26,,,,10,5.0
+18589942,2023-09-26,Please select the role that best describes your involvement in the delivery of your new workplace:,single-select,Employee using the new workplace,2023-09-26,,,Employee using the new workplace,,
+18589942,2023-09-26,Please share your ideas on how we could improve the guidance we provide.,text,,2023-09-26,,,,,
+18589942,2023-09-26,Do you have specific comments you would like to share about the technology in your new workplace?,text,,2023-09-26,,,,,
+18589942,2023-09-26,Care to tell us why? Your feedback helps us improve our workplace delivery.,text,,2023-09-26,,,,,
+19247822,2024-01-09,Did you participate in a change management event listed below? (select all that apply),multi-select,Manager OrientationLunch & LearnMove Info Session,2024-01-09,Change Mgmt/Comms,,,,
+19247822,2024-01-09,Did the information shared in these events prepare you for the first day in your new workplace?,yes no,Yes,2024-01-09,Change Mgmt/Comms,,,,
+19247822,2024-01-09,"How satisfied are you with the technology solutions, are they intuitive and easy to use?",rated 0-10,9,2024-01-09,Technology ,,,9,4.5
+19247822,2024-01-09,How satisfied are you with the move support?,rated 0-10,9,2024-01-09,Move Support ,,,9,4.5
+19247822,2024-01-09,Do you have any additional comments you would like to share about the delivery of your new workplace?,text,,2024-01-09,,,,,
+19247822,2024-01-09,Do you have specific comments you would like to share about the move support?,text,,2024-01-09,,,,,
+19247822,2024-01-09,Please select which workplace location you work at:,single-select,"CA013 – 7 Technology Dr, Irvine",2024-01-09,,CA013,,,
+19247822,2024-01-09,Do you have specific comments you would like to share about these events?,text,,2024-01-09,,,,,
+19247822,2024-01-09,Does your new workplace environment impact how often you come to the office?,single-select,"No, I come in the same",2024-01-09,,,,,
+19247822,2024-01-09,Please select the role that best describes your involvement in the delivery of your new workplace:,single-select,Employee using the new workplace,2024-01-09,,,Employee using the new workplace,,
+19247822,2024-01-09,Do you have specific comments you would like to share about the technology in your new workplace?,text,,2024-01-09,,,,,
+19247822,2024-01-09,Care to tell us why? Your feedback helps us improve our workplace delivery.,text,,2024-01-09,,,,,
+18589830,2023-09-26,"How satisfied are you with the technology solutions, are they intuitive and easy to use?",rated 0-10,8,2023-09-06,Technology ,,,8,4.0
+18589830,2023-09-26,How satisfied are you with the overall delivery of your new workplace?,rated 0-10,7,2023-09-06,Delivery ,,,7,3.5
+18589830,2023-09-26,How satisfied are you with the move support?,rated 0-10,7,2023-09-06,Move Support ,,,7,3.5
+18589830,2023-09-26,Do you have specific comments you would like to share about your new workplace?,text,,2023-09-06,,,,,
+18589830,2023-09-26,Do you have any additional comments you would like to share about the delivery of your new workplace?,text,,2023-09-06,,,,,
+18589830,2023-09-26,Do you have specific comments you would like to share about the move support?,text,,2023-09-06,,,,,
+18589830,2023-09-26,"How satisfied are you with your new workplace? (collaboration space, private space, exam room, provider space etc.)",rated 0-10,7,2023-09-06,,,,7,3.5
+18589830,2023-09-26,Please select which workplace location you work at:,single-select,GA019,2023-09-06,,GA019,,,
+18589830,2023-09-26,Do you have specific comments you would like to share about these events?,text,,2023-09-06,,,,,
+18589830,2023-09-26,How satisfied are you that the communications outlining when and how you would be impacted by the new workplace delivery provided all the information needed?,rated 0-10,7,2023-09-06,,,,7,3.5
+18589830,2023-09-26,How satisfied are you that the guidance you received prepared you to help manage this move?,rated 0-10,7,2023-09-06,,,,7,3.5
+18589830,2023-09-26,Please select the role that best describes your involvement in the delivery of your new workplace:,single-select,Employee using the new workplace,2023-09-06,,,Employee using the new workplace,,
+18589830,2023-09-26,Please share your ideas on how we could improve the guidance we provide.,text,,2023-09-06,,,,,
+18589830,2023-09-26,Do you have specific comments you would like to share about the technology in your new workplace?,text,,2023-09-06,,,,,
+18589830,2023-09-26,Care to tell us why? Your feedback helps us improve our workplace delivery.,text,,2023-09-06,,,,,
+18571121,2023-09-22,Move Support,rated 0-10,10,2023-09-22,Move support ,,,10,5.0
+18571121,2023-09-22,"How satisfied are you with the technology solutions, are they intuitive and easy to use?",rated 0-10,9,2023-09-22,Technology ,,,9,4.5
+18571121,2023-09-22,How satisfied are you with the overall delivery of your new workplace?,rated 0-10,10,2023-09-22,Delivery ,,,10,5.0
+18571121,2023-09-22,Do you have specific comments you would like to share about your new workplace?,text,,2023-09-22,,,,,
+18571121,2023-09-22,Clean sweep support,rated 0-10,9,2023-09-22,,,,9,4.5
+18571121,2023-09-22,Do you have any additional comments you would like to share about the delivery of your new workplace?,text,,2023-09-22,,,,,
+18571121,2023-09-22,"How satisfied are you with your new workplace? (collaboration space, private space, exam room, provider space etc.)",rated 0-10,10,2023-09-22,,,,10,5.0
+18571121,2023-09-22,Communications and materials to support your team,rated 0-10,8,2023-09-22,,,,8,4.0
+18571121,2023-09-22,Please select which workplace location you work at:,single-select,"San Antonio, TX (Wellmed)",2023-09-22,,TX547,,,
+18571121,2023-09-22,Do you have specific comments you would like to share about these events?,text,,2023-09-22,,,,,
+18571121,2023-09-22,How satisfied are you that the communications outlining when and how you would be impacted by the new workplace delivery provided all the information needed?,rated 0-10,10,2023-09-22,,,,10,5.0
+18571121,2023-09-22,How satisfied are you that the guidance you received prepared you to help manage this move?,rated 0-10,10,2023-09-22,,,,10,5.0
+18571121,2023-09-22,Please select the role that best describes your involvement in the delivery of your new workplace:,single-select,Business Segment Liaison (BSL),2023-09-22,,,Business Segment Liaison (BSL),,
+18571121,2023-09-22,Please share your ideas on how we could improve the guidance we provide.,text,,2023-09-22,,,,,
+18571121,2023-09-22,Do you have specific comments you would like to share about the technology in your new workplace?,text,,2023-09-22,,,,,
+18571121,2023-09-22,Care to tell us why? Your feedback helps us improve our workplace delivery.,text,,2023-09-22,,,,,
+19548410,2024-02-19,Did you participate in a change management event listed below? (select all that apply),multi-select,Manager OrientationOpen House,2024-02-19,Change Mgmt/Comms,,,,
+19548410,2024-02-19,Did the information shared in these events prepare you for the first day in your new workplace?,yes no,Yes,2024-02-19,Change Mgmt/Comms,,,,
+19548410,2024-02-19,"How satisfied are you with the technology solutions, are they intuitive and easy to use?",rated 0-10,5,2024-02-19,Technology ,,,5,2.5
+19548410,2024-02-19,How satisfied are you with the move support?,rated 0-10,10,2024-02-19,Move Support ,,,10,5.0
+19548410,2024-02-19,Do you have any additional comments you would like to share about the delivery of your new workplace?,text,,2024-02-19,,,,,
+19548410,2024-02-19,Do you have specific comments you would like to share about the move support?,text,,2024-02-19,,,,,
+19548410,2024-02-19,Please select which workplace location you work at:,single-select,MN101 Twin Cities Consolidation Phase 1,2024-02-19,,MN101,,,
+19548410,2024-02-19,Do you have specific comments you would like to share about these events?,text,,2024-02-19,,,,,
+19548410,2024-02-19,Does your new workplace environment impact how often you come to the office?,single-select,"No, I come in the same",2024-02-19,,,,,
+19548410,2024-02-19,Please select the role that best describes your involvement in the delivery of your new workplace:,single-select,Employee using the new workplace,2024-02-19,,,Employee using the new workplace,,
+19548410,2024-02-19,Do you have specific comments you would like to share about the technology in your new workplace?,text,I work more effectively with larger monitors with higher pixel density. E.g. 27 inch screens with 4K resolution.,2024-02-19,,,,,
+19548410,2024-02-19,Care to tell us why? Your feedback helps us improve our workplace delivery.,text,,2024-02-19,,,,,
+18588828,2023-09-26,"How satisfied are you with the technology solutions, are they intuitive and easy to use?",rated 0-10,0,2023-09-26,Technology ,,,0,0.0
+18588828,2023-09-26,How satisfied are you with the overall delivery of your new workplace?,rated 0-10,0,2023-09-26,Delivery ,,,0,0.0
+18588828,2023-09-26,How satisfied are you with the move support?,rated 0-10,0,2023-09-26,Move Support ,,,0,0.0
+18588828,2023-09-26,Do you have specific comments you would like to share about your new workplace?,text,,2023-09-26,,,,,
+18588828,2023-09-26,Do you have any additional comments you would like to share about the delivery of your new workplace?,text,,2023-09-26,,,,,
+18588828,2023-09-26,Do you have specific comments you would like to share about the move support?,text,,2023-09-26,,,,,
+18588828,2023-09-26,"How satisfied are you with your new workplace? (collaboration space, private space, exam room, provider space etc.)",rated 0-10,0,2023-09-26,,,,0,0.0
+18588828,2023-09-26,Please select which workplace location you work at:,single-select,"San Antonio, TX (Wellmed)",2023-09-26,,TX547,,,
+18588828,2023-09-26,Do you have specific comments you would like to share about these events?,text,,2023-09-26,,,,,
+18588828,2023-09-26,How satisfied are you that the communications outlining when and how you would be impacted by the new workplace delivery provided all the information needed?,rated 0-10,0,2023-09-26,,,,0,0.0
+18588828,2023-09-26,How satisfied are you that the guidance you received prepared you to help manage this move?,rated 0-10,0,2023-09-26,,,,0,0.0
+18588828,2023-09-26,Please select the role that best describes your involvement in the delivery of your new workplace:,single-select,Employee using the new workplace,2023-09-26,,,Employee using the new workplace,,
+18588828,2023-09-26,Please share your ideas on how we could improve the guidance we provide.,text,,2023-09-26,,,,,
+18588828,2023-09-26,Do you have specific comments you would like to share about the technology in your new workplace?,text,,2023-09-26,,,,,
+18588828,2023-09-26,Care to tell us why? Your feedback helps us improve our workplace delivery.,text,,2023-09-26,,,,,
+20162642,2024-05-01,Move Support,rated 1-5,,2024-05-01,Move support ,,,,
+20162642,2024-05-01,Change Management/Communications,rated 1-5,,2024-05-01,Change Mgmt/Comms,,,,
+20162642,2024-05-01,How satisfied are you that the provided technology solutions meets the business needs?,rated 1-5,,2024-05-01,Technology ,,,,
+20162642,2024-05-01,How satisfied are you that your management team had the support they needed to guide employees through this change?,rated 1-5,,2024-05-01,Change Mgmt/Comms,,,,
+20162642,2024-05-01,Did you participate in a change management event listed below? (select all that apply),multi-select,Move Info Session,2024-05-01,Change Mgmt/Comms,,,,
+20162642,2024-05-01,Did the information shared in these events prepare you for the first day in your new workplace?,yes no,Yes,2024-05-01,Change Mgmt/Comms,,,,
+20162642,2024-05-01,"How satisfied are you with the technology solutions, are they intuitive and easy to use?",rated 1-5,4,2024-05-01,Technology ,,,,
+20162642,2024-05-01,How satisfied are you with the overall delivery of your new workplace?,rated 1-5,4,2024-05-01,Delivery ,,,,
+20162642,2024-05-01,Project Delivery,rated 1-5,,2024-05-01,Delivery ,,,,
+20162642,2024-05-01,How satisfied are you with the move support?,rated 1-5,4,2024-05-01,Move Support ,,,,
+20162642,2024-05-01,How satisfied are you that the project team met the communicated schedule and delivery expectations?,rated 1-5,,2024-05-01,Delivery ,,,,
+20162642,2024-05-01,Would you have benefitted from more guidance on how to lead this change?,yes no,,2024-05-01,Change Mgmt/Comms,,,,
+20162642,2024-05-01,Do you have specific comments you would like to share about the schedule and expectations?,text,,2024-05-01,,,,,
+20162642,2024-05-01,Clean sweep support,rated 1-5,,2024-05-01,,,,,
+20162642,2024-05-01,Do you have any additional comments you would like to share about the delivery of your new workplace?,text,,2024-05-01,,,,,
+20162642,2024-05-01,Do you have specific comments you would like to share about the move support?,text,Moving/packing supplies (besides boxes) were not made available for people who no longer have a desk.,2024-05-01,,,,,
+20162642,2024-05-01,Communications and materials to support your team,rated 1-5,,2024-05-01,,,,,
+20162642,2024-05-01,Please select which workplace location you work at:,single-select,DC007 – 655 New York Avenue,2024-05-01,,DC007,,,
+20162642,2024-05-01,Do you have specific comments you would like to share about these events?,text,,2024-05-01,,,,,
+20162642,2024-05-01,How satisfied are you that the guidance you received prepared you to help manage this move?,rated 1-5,,2024-05-01,,,,,
+20162642,2024-05-01,Please rate your satisfaction with the following teams:,free text,,2024-05-01,,,,,
+20162642,2024-05-01,Does your new workplace environment impact how often you come to the office?,single-select,"Yes, I come in less",2024-05-01,,,,,
+20162642,2024-05-01,Please select the role that best describes your involvement in the delivery of your new workplace:,single-select,Employee using the new workplace,2024-05-01,,,Employee using the new workplace,,
+20162642,2024-05-01,"What is the Address, City, State and Country for your workplace location?",text,,2024-05-01,,,,,
+20162642,2024-05-01,Please share your ideas on how we could improve the guidance we provide.,text,,2024-05-01,,,,,
+20162642,2024-05-01,Do you have specific comments you would like to share about the technology in your new workplace?,text,,2024-05-01,,,,,
+20162642,2024-05-01,Please rate your satisfaction with Enterprise Real Estate's support in these areas:,free text,,2024-05-01,,,,,
+20162642,2024-05-01,Care to tell us why? Your feedback helps us improve our workplace delivery.,text,,2024-05-01,,,,,
