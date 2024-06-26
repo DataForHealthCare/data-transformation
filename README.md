@@ -1,5 +1,5 @@
 # Data Transformation & Cleansing Example
-## Technolcgies Implemented
+## Technologies Implemented
 - Python
 - Pandas Library
 - PandasSQL (SQLite)
