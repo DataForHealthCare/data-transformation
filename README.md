@@ -2,5 +2,5 @@
 ## Technolcgies Implemented
 - Python
 - Pandas Library
-- PandasSQL (SQLLite)
+- PandasSQL (SQLite)
 - Jupyter Notebook
