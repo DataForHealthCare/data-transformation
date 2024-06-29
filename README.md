@@ -6,7 +6,7 @@ This repository features working examples of how I approach cleaning and transfo
 
 ## project
 
-### Raw CSV Data Transformation - Python, PandasSQL
+### Raw CSV Data Transformation - Python, PandaSQL
 
 - **Description:** A Jupyter notebook with markdown documentation with how I approach cleaning and preparing data for ETL/ELT pipeline workflows.
 
